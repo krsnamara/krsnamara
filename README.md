@@ -1,18 +1,23 @@
-### Hi there 👋
+### Hi there Software👋
+
 ***
 
 Fresh new bootcamp dev here trying to find his way in the world of software. Looking for an opportunity to plug in and continue on this learning journey. 
 
 ***
+
 ### Welcome to tips and volunteer directions
+
 ***
 
 I am open to any advice or suggestions on hackathons, open-source projects that have some busy work or someone in need of a collaborator. More than willing to lend a helping hand and learn some new tech.  
 
 ***
-## Take a look below
+
+## You can find me on: 
+
 ***
-You can find me on: 
+
 The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) 
 
 and 
