@@ -13,11 +13,11 @@ I am open to any advice or suggestions on hackathons, open-source projects that 
 ## Take a look below
 ***
 You can find me on: 
-[linkedin](https://www.linkedin.com/in/martinj-fitzpatrick/) LinkedIn
+The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) 
 
 and 
-My
-[portfolio](https://martinjfitzpatrick-portfolio.vercel.app/) Portfolio
+
+A contact form on my [portfolio](https://martinjfitzpatrick-portfolio.vercel.app/)
 
 <!--
 **krsnamara/krsnamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
