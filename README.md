@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### You have found it!
+
+## The secret page!
+
+#Take a look
 <!--
 **krsnamara/krsnamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
