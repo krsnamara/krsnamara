@@ -1,10 +1,12 @@
 ### Hi there 👋
+***
+Fresh new bootcamp dev here trying to find his way in the world of software. Looking for an opportunity to plug in and continue on this learning journey. 
+***
+### Welcome to tips and volunteer directions
+***
+I am open to any advice or suggestions on hackathons, open-source projects that have some busy work or someone in need of a collaborator. More than willing to lend a helping hand and learn some new tech.  
 
-### You have found it!
-
-## The secret page!
-
-#Take a look
+Take a look
 <!--
 **krsnamara/krsnamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
