@@ -17,6 +17,17 @@ I am a life long learner of many things and am excited to break into this new wo
 I am open to any advice or suggestions on hackathons, open-source projects that have some busy work or someone in need of a collaborator. More than willing to lend a helping hand and learn some new tech.  
 
 ***
+- 🔭 I’m currently working on ... A blog component to my portfolio to showcase my previous work. Written in Vue.js with AWS services.
+- 🌱 I’m currently learning ... Vue.js, AWS, Docker/Kubernetes, Python/Pandas/Selenium Scraping with Poetry package handler and Jupyter
+- 👯 I’m looking to collaborate on ... An app that combines my interests in Microservices, Web scraping, iOS to get a well rounded experience of the industry
+- 🤔 I’m looking for help with ... Contributing to Open Source, writing Unit Tests and building a test driven app.
+- 💬 Ask me about ... What I am planting in my garden this year...
+- 📫 How to reach me: ... email, contact form on my portfolio, slack if your GA
+- 😄 Pronouns: ... He/Him
+- ⚡ Fun fact: ... I am exceptional at packing a car for a road trip.
+-->
+
+***
 
 #### You can find me on: 
 
