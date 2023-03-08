@@ -2,7 +2,11 @@
 
 ***
 
-Fresh new bootcamp dev here trying to find his way in the world of software. Looking for an opportunity to plug in and continue on this learning journey. 
+Software Engineer here with proficency in JavaScript programing. 
+I have built Full Stack with React, Vue, Express, Python, Django and more to come. I have written many lines of custom CSS as well as using frameworks and libraries such as Bootstrap, Tailwinds, Materialize. I have also worked with AWS Lambda, Gateway API, S3 Bucket, SES, and Amplify. 
+
+I am a life long learner of many things and am excited to break into this new world of coding.
+ 
 
 ***
 
