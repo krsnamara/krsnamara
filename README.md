@@ -15,9 +15,6 @@ I am a life long learner and self starter I love a challenge and do not shy away
 
 The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) and A contact form on my [portfolio](https://martinjfitzpatrick.com/)
 
-<!--
-**krsnamara/krsnamara** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on -> [AccessiCity](https://all-access-client.vercel.app/) Hackathon Project
@@ -27,5 +24,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about -> The ship schedules in the NYC Port
 - 📫 How to reach me: -> martinj.fitzpatrick@gmail.com
 - 😄 Pronouns: -> He/Him
-- ⚡ Fun fact: ->
--->
+- ⚡ Fun fact: -> I have a serious green thumb and live in an urban environment. I plan to get my Master Composter Certificate from NYC Parks department in the next year!
