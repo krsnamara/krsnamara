@@ -3,9 +3,9 @@
 ***
 
 Software Engineer here with proficency in JavaScript programing. 
-I have built Full Stack with React, Vue, Express, Python, Django and more to come. I have written many lines of custom CSS as well as using frameworks and libraries such as Bootstrap, Tailwinds, Materialize. I have also worked with AWS Lambda, Gateway API, S3 Bucket, SES, and Amplify. 
+I have built Full Stack with React, Vue, Nodejs, Express, Python, Django and more to come. Experience with Mongoose ODM, Prisma ORM, Django's built in ORM, connecting to relational and non-relational databases such as MongoDB, PostgreSQL, MySQL, DynamoDB.  For styling I write custom CSS or use frameworks and libraries such as Bootstrap, Tailwinds, Materialize. I have also worked with AWS Lambda, Gateway API, S3 Bucket, CloudFront CDN, SES, and Amplify. 
 
-I am a life long learner of many things and am excited to break into this new world of coding.
+I am a life long learner and self starter I love a challenge and do not shy away from putting in the work.
 
 ***
 
@@ -20,12 +20,12 @@ The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) and A contact f
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🔭 I’m currently working on -> [AccessiCity](https://all-access-client.vercel.app/) Hackathon Project
+- 🌱 I’m currently learning -> React and looking into Nextjs next
+- 👯 I’m looking to collaborate on -> A zillow clone with Google API showing search-able listings
+- 🤔 I’m looking for help with -> Code Review and Unit testing
+- 💬 Ask me about -> The ship schedules in the NYC Port
+- 📫 How to reach me: -> martinj.fitzpatrick@gmail.com
+- 😄 Pronouns: -> He/Him
+- ⚡ Fun fact: ->
 -->
