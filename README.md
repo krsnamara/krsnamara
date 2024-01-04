@@ -18,10 +18,10 @@ The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) and A contact f
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on -> [TwitT3r](https://twitter-clone-nu-dusky.vercel.app/) Building a Twitter Clone with the T3 Stack
-- 🌱 I’m currently learning -> React and looking into Nextjs next
+- 🌱 I’m currently learning -> T3 Stack: Next.js | Typescript | Tailwind CSS | tRCP | Prisma 
 - 👯 I’m looking to collaborate on -> A zillow clone with Google API showing search-able listings
-- 🤔 I’m looking for help with -> Code Review and Unit testing
-- 💬 Ask me about -> The ship schedules in the NYC Port
+- 🤔 I’m looking for help with -> Code Review, Unit testing, Open Source Contribution
+- 💬 Ask me about -> The ship schedules in the NYC Port or what I am going to grow in my garden this year
 - 📫 How to reach me: -> martinj.fitzpatrick@gmail.com
 - 😄 Pronouns: -> He/Him
 - ⚡ Fun fact: -> I have a serious green thumb and live in an urban environment. I plan to get my Master Composter Certificate from NYC Parks department in the next year!
