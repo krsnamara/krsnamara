@@ -17,7 +17,7 @@ The [LinkedIn](https://www.linkedin.com/in/martinj-fitzpatrick/) and A contact f
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on -> [AccessiCity](https://all-access-client.vercel.app/) Hackathon Project
+- 🔭 I’m currently working on -> [TwitT3r](https://twitter-clone-nu-dusky.vercel.app/) Building a Twitter Clone with the T3 Stack
 - 🌱 I’m currently learning -> React and looking into Nextjs next
 - 👯 I’m looking to collaborate on -> A zillow clone with Google API showing search-able listings
 - 🤔 I’m looking for help with -> Code Review and Unit testing
